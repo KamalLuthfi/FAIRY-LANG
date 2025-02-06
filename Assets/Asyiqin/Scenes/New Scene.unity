@@ -475,7 +475,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 723937692}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b64507f10bb88348bed3794a8efb08e, type: 3}
+  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &723937694
@@ -587,7 +587,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 934040923}
   m_LocalRotation: {x: 0.99926466, y: 0.012198188, z: 0.0004437264, w: 0.036349792}
-  m_LocalPosition: {x: 0, y: 0, z: 1.9680792}
+  m_LocalPosition: {x: 0, y: 0, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -595,7 +595,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.8097839, y: -27.067505}
+  m_AnchoredPosition: {x: -2, y: -15}
   m_SizeDelta: {x: 459.2012, y: 179.0977}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &934040925
@@ -621,8 +621,8 @@ MonoBehaviour:
   m_text: Heyya buddies! Welcome to Cosmos's World! Are you ready to go on journey
     with me? Let's go!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
+  m_sharedMaterial: {fileID: -115622579284967469, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -652,7 +652,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
